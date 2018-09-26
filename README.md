@@ -1,3 +1,3 @@
-# Extreme-Values-of-Multidimensional-Functions
+# Extreme-Values-of-High-Dimensional-Functions
 
-The application of Genetic Algorithm to finding extreme values of multidimensional mathematical functions.
+The application of Genetic Algorithm to finding extreme values of high dimensional multivariate mathematical functions.
